@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "A package for testing interaction with github and travis CI.",
   "main": "gulpfile.js",
-  "dependencies": {
-    "gulp": "^3.4.0"
-  },
   "devDependencies": {
-    "gulp": "^3.4.0"
+    "gulp": "^3.8.11"
   },
   "scripts": {
     "test": "gulp"
