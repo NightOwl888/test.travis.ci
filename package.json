@@ -4,9 +4,11 @@
   "description": "A package for testing interaction with github and travis CI.",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.8.11"
+    "gulp": "^3.4.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.4.0"
+  },
   "scripts": {
     "test": "gulp"
   },
@@ -25,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/NightOwl888/test.travis.ci/issues"
   },
-  "homepage": "https://github.com/NightOwl888/test.travis.ci#readme"
+  "homepage": "https://github.com/NightOwl888/test.travis.ci"
 }
